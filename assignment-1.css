@@ -1,0 +1,46 @@
+
+*{
+	margin: 0 auto;
+}
+.first{
+	margin: 0 auto;
+	width: 248px;
+	height: 250px;
+}
+.second{
+	width: 248px;
+	height: 174px;
+
+}
+p {
+	text-align: center;
+	color: green;
+	font-size: 16px;
+	padding:5px;
+}
+
+ .inline {
+	width: 60px;
+	height: 60px;
+	border-radius: 10px;
+	border: 1px solid white;
+	background-color: orange;
+	margin: 10px;
+	float: left;
+}
+.control {
+	width: 248px;
+	height: 30px;
+	border:1px solid orange;
+	text-align: center;
+	border-radius: 10px;
+	padding-top: 5px;
+	margin: 5px;
+	float: left;
+	background-color: white;
+	disabled:false;
+}
+hr {
+	width: 248px;
+	margin: 0 auto;
+}
